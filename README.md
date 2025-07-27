@@ -13,11 +13,15 @@ Welcome to this setup guide for **Metal Gear Solid: Portable Ops (MPO)** and **P
 
 ---
 
-## General Requirements
+## General Requirements for PPSSPP (emulator)
 
 - A copy of **MPO** or **MPO+** in **ISO/CSO** format (legally dumped only) any regions
 - A compatible device (or a PC/smartphone for PPSSPP)
+
+## General Requirements for PSP/PS Vita (real hardware)
+
 - A PSP/PS Vita on CFW/HEN
+- A copy of **MPO** or **MPO+** in **ISO/CSO/UMD** format (legally dumped only or original UMD disc) any regions
 - A Memory Card large enough to store the games, save data, plugin and cheats (for PSP and PS Vita users)
 - [TempAR Plugin (Cheat Engine for PSP and PS Vita users)](https://www.mediafire.com/file/ltbbca0gn4xzzcd/temparpsp.7z/file) – A homebrew cheat plugin for PSP and Adrenaline that lets you enable cheats in-game. Obligatory for patche the games URL's and Binary check (MPO+)
 
