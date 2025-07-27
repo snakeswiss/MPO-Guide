@@ -1,5 +1,5 @@
-#![PSP Logo](../assets/Psp-logo.png)
-(real hardware)
+![PSP Logo](../assets/Psp-logo.png)
+#(real hardware)
 
 ## Requirements
 - A PSP with custom firmware (e.g. PRO-C2, ME, or Infinity)
