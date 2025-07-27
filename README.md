@@ -9,7 +9,7 @@ Welcome to this setup guide for **Metal Gear Solid: Portable Ops (MPO)** and **P
 - [PPSSPP (emulator)](./ppsspp/setup.md)
 
 
-> **Note:** This guide does **not** include any game files. You must **legally dump** your own copies from UMD or download them via PSN if you have purchased them.
+> **Note:** This guide does **not** include any game files. You must **legally dump** your own copies from UMD.
 
 ---
 
