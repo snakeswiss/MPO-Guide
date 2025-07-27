@@ -19,3 +19,6 @@ Welcome to this setup guide for **Metal Gear Solid: Portable Ops (MPO)** and **P
 - A compatible device (or a PC/smartphone for PPSSPP)
 - A PSP/PS Vita on CFW/HEN
 - A Memory Card large enough to store the games, save data, plugin and cheats (for PSP and PS Vita users)
+
+  ![255621532-e58f0b04-8e7f-4201-bae5-1e66264820bc](https://github.com/user-attachments/assets/d523384d-4a41-410b-b1c3-6d56ee5e1a8a)
+
