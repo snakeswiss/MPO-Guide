@@ -15,7 +15,7 @@
 4. Download TempAR plugin (only TempAR is supported) there : [TempAR Plugin (Cheat Engine for PSP)](https://github.com/snakeswiss/Tutorial-setting-up-MPO-MPO-Online/raw/main/assets/tempar_163.7z)
 5. Extract and copy the "seplugins" folder and past it in the root of your PSP (overwrite if necessary) 
 6. Disconnect the PSP safely.
-7. On the XMB, go to "Network Settings" -> “Infrastructure Mode” -> “New Connection” -> “Scan” -> Select your SSID (your network connection name) -> “Address Settings” choose “Custom” -> “IP Address Setting” select “Automatic” -> “DNS Settings” select “Manual” and enter the **Primary DNS Address** set up this IP : **5.161.249.72** -> “Proxy Server” choose “Do Not Use” -> “Internet Browser” select “Do Not Start” -> Then validate and you Network Settings should be ready
+7. On the XMB (main PSP menu), go to "Network Settings" -> “Infrastructure Mode” -> “New Connection” -> “Scan” -> Select your SSID (your network connection name) -> “Address Settings” choose “Custom” -> “IP Address Setting” select “Automatic” -> “DNS Settings” select “Manual” and enter the **Primary DNS Address** set up this IP : **5.161.249.72** -> “Proxy Server” choose “Do Not Use” -> “Internet Browser” select “Do Not Start” -> Then validate and you Network Settings should be ready
 
 ![DNS IP](../assets/IP.png)
 
