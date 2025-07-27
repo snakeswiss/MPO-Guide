@@ -16,7 +16,7 @@
 5. Extract and copy the "seplugins" folder and past it in the root of your PSP (overwrite if necessary) 
 6. Disconnect the PSP safely.
 7. On the XMB, go to "Network Settings" -> “Infrastructure Mode” -> “New Connection” -> “Scan” -> Select your SSID (your network connection name) -> “Address Settings” choose “Custom” -> “IP Address Setting” select “Automatic” -> “DNS Settings” select “Manual” and enter the **Primary DNS Address** set up this IP : **5.161.249.72** -> “Proxy Server” choose “Do Not Use” -> “Internet Browser” select “Do Not Start” -> Then validate and you Network Settings should be ready
-   ![DNS IP](../assets/IP.png)
+![DNS IP](../assets/IP.png)
 8. On the XMB (main PSP menu), go to **Game > Memory Stick** and launch the game.
 9. Once you are in the game main menu hit the **♪** button of your PSP to enabled the cheats (TempAR)
 10. Once you loaded your save game go to Infrastructure (or Infrastructure+) and you should be good to connect !
