@@ -5,8 +5,8 @@ Welcome to this setup guide for **Metal Gear Solid: Portable Ops (MPO)** and **P
 ## Table of Contents
 
 - [PSP](./psp/setup.md)
-- [PS Vita (Adrenaline)](./vita/setup.md)
-- [PPSSPP (emulator)](./ppsspp/setup.md)
+- [PS Vita (Adrenaline)](./PS_vita/setup.md)
+- [PPSSPP (emulator)](./PPSSPP/setup.md)
 
 
 > **Note:** This guide does **not** include any game files. You must **legally dump** your own copies from UMD.
