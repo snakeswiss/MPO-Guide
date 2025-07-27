@@ -1,4 +1,4 @@
-# PSP Setup (Real Hardware) https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.m.wikipedia.org%2Fwiki%2FFichier%3APSP_Logo.svg&psig=AOvVaw2kdtKxDoVpRS_oKJ-DyXoh&ust=1753688203568000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMiWweXD3I4DFQAAAAAdAAAAABAE
+# PSP Setup (Real Hardware) 
 
 ## Requirements
 - A PSP with custom firmware (e.g. PRO-C2, ME, or Infinity)
