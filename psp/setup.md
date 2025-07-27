@@ -1,4 +1,4 @@
-# PSP Setup (Real Hardware) 
+# PSP Setup (Real Hardware) ![PSP Logo](../assets/Psp-logo.png)
 
 ## Requirements
 - A PSP with custom firmware (e.g. PRO-C2, ME, or Infinity)
