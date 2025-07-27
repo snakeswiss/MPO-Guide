@@ -19,7 +19,7 @@
 8. On the XMB (main PSP menu), go to **Game > Memory Stick** and launch the game.
 9. Once you are in the game main menu hit the **♪** to enabled the cheats (TempAR)
 10. Once you loaded your save game go to Infrastructure (or Infrastructure+) and you should be good to connect !
-11. If you have any issues past this point, you can ask for support on our Discord join us : [SaveMGO Discord](discord.gg/mgo2pc)
+11. If you have any issues past this point, you can ask for support on our Discord join us : [SaveMGO Discord](https://discord.gg/mgo2pc)
 
 ---
 
