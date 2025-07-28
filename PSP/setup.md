@@ -14,7 +14,7 @@
 3. Extract and copy the "seplugins" folder and past it in the root of your PSP (overwrite if necessary) 
 4. Disconnect the PSP safely.
 5. On the XMB (main PSP menu), go to **Game > Memory Stick** and launch the game.
-6. Once you are in the game main menu hit the **♪** button of your PSP to enabled the cheats (TempAR)
+6. Once you are in the game main menu hit the **♪** button of your PSP to enabled the cheats (TempAR) (you have to do it every time you start the game)
 7. Once you loaded your save game go to Infrastructure (or Infrastructure+) and you should be good to connect !
 8. If you have any issues past this point, you can ask for support on our Discord join us : [SaveMGO Discord](https://discord.gg/mgo2pc)
 
