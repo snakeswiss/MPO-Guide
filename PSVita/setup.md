@@ -15,7 +15,7 @@
 3. Extract and copy the "seplugins" and past the file in **ux0:/pspemu/**
 4. Launch **Adrenaline**
 5. On the emulated XMB (main PSP menu), go to **Game > Memory Stick** and launch the game.
-6. Once you are in the game main menu hit the **HOME + R** or **DOWN+TRIANGLE** (depending the version of TempAR) button of your PS Vita to show the **TempAR** menu see the screen shot below.
+6. Once you are in the game main menu hit the **HOME + R** or **DOWN+TRIANGLE** (depending the version of TempAR) button of your PS Vita to show the **TempAR** menu see the screen shot below. (you have to do it every time you start the game)
 
 ![TempAR example menu](../assets/TempAR.png)
 
