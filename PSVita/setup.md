@@ -12,11 +12,10 @@
 ## Installation Steps
 1. Connect your PS Vita to your computer via **USB** mode or **FTP** mode (Filezilla of example).
 2. Download preconfigured **TempAR** plugin (only TempAR is supported) there : [TempAR Plugin (Cheat Engine for PSP)](https://github.com/snakeswiss/Tutorial-setting-up-MPO-MPO-Online/raw/main/assets/tempar_163.7z)
-3. Extract and copy the "seplugins" folder and past it in the root of your PSP (overwrite if necessary) 
-4. Disconnect the PSP safely.
-5. Launch **Adrenaline**
-6. On the emulated XMB (main PSP menu), go to **Game > Memory Stick** and launch the game.
-7. Once you are in the game main menu hit the **HOME + R** or **DOWN+TRIANGLE** (depending the version of TempAR) button of your PS Vita to show the **TempAR** menu see the screen shot below.
+3. Extract and copy the "seplugins" and past the file in **ux0:/pspemu/**
+4. Launch **Adrenaline**
+5. On the emulated XMB (main PSP menu), go to **Game > Memory Stick** and launch the game.
+6. Once you are in the game main menu hit the **HOME + R** or **DOWN+TRIANGLE** (depending the version of TempAR) button of your PS Vita to show the **TempAR** menu see the screen shot below.
 
 ![TempAR example menu](../assets/TempAR.png)
 
