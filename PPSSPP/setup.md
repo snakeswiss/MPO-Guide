@@ -13,6 +13,6 @@
 **Download it here :** [PPSSPP Cheats](https://github.com/snakeswiss/Tutorial-setting-up-MPO-MPO-Online/raw/main/assets/PPSSPP%20MPO%20%26%20MPO%2B%20INFRA%20cheats.7z)
 
 2. Launch your PPSSPP emulator and go into the **Settings** -> **System** -> **Cheats** and make sure that "Enabled Cheats" is checked **☑**
-3. Still on Settings of PPSSPP, go into **Networking** -> **Infrastructure** -> Uncheck the **Autoconfigure** -> in the DNS Server enter this IP : **5.161.249.72**
+3. Still on Settings of PPSSPP, be sure that **Networking** -> **Infrastructure** -> **Autoconfigure** is checked **☑**
 4. Launch your favorite game and create/load your save data go into Infrastructure (+) mode and enjoy !
 5. If you have any issues past this point, you can ask for support on our Discord join us : [SaveMGO Discord](https://discord.gg/mgo2pc)
