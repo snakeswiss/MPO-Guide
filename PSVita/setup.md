@@ -15,10 +15,10 @@
 3. Extract and copy the "seplugins" and past the file in **ux0:/pspemu/**
 4. Launch **Adrenaline**
 5. On the emulated XMB (main PSP menu), go to **Game > Memory Stick** and launch the game.
-6. Once you are in the game main menu hit the **HOME + R** or **DOWN+TRIANGLE** (depending the version of TempAR) button of your PS Vita to show the **TempAR** menu see the screen shot below. (you have to do it every time you start the game)
+6. Once you are in the game main menu hit the **HOME + R** or **DOWN+TRIANGLE** (depending the version of TempAR) button of your PS Vita to show the **TempAR** menu see the screen shot below.
 
 ![TempAR example menu](../assets/TempAR.png)
 
-7. Now on this **TempAR** menu hit the **L** button of your PS Vita, it should now say in top right of the screen **[CHEATS ON]** now you can quite the **TempAR** menu hitting circle button
+7. Now on this **TempAR** menu hit the **L** button of your PS Vita, it should now say in top right of the screen **[CHEATS ON]** now you can quite the **TempAR** menu hitting circle button  (you have to do it every time you start the game)
 8. Once you loaded your save game go to Infrastructure (or Infrastructure+) and you should be good to connect !
 9. If you have any issues past this point, you can ask for support on our Discord join us : [SaveMGO Discord](https://discord.gg/mgo2pc)
