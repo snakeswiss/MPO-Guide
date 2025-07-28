@@ -1,4 +1,4 @@
-![PPSSPP Logo](../assets/PPSSPP_logo.svg.png)
+![PPSSPP Logo](../assets/PPSSPP_logo.png)
 # (emulator)
 
 ## Requirements
