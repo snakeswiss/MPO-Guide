@@ -10,7 +10,7 @@
 
 ## Installation Steps
 1. Connect your PSP to your computer via USB mode. (or the memory card on an USB reader)
-2. Download TempAR plugin (only TempAR is supported) there : [TempAR Plugin (Cheat Engine for PSP)](https://github.com/snakeswiss/Tutorial-setting-up-MPO-MPO-Online/raw/main/assets/tempar_163.7z)
+2. Download the pre-configured **TempAR** plugin (only TempAR is supported) there : [TempAR Plugin (Cheat Engine for PSP)](https://github.com/snakeswiss/Tutorial-setting-up-MPO-MPO-Online/raw/main/assets/tempar_163.7z)
 3. Extract and copy the "seplugins" folder and past it in the root of your PSP (overwrite if necessary) 
 4. Disconnect the PSP safely.
 5. On the XMB (main PSP menu), go to **Game > Memory Stick** and launch the game.
