@@ -35,4 +35,6 @@ Check our FAQ: [FAQ](https://github.com/snakeswiss/MPO-Guide/blob/main/FAQ/faq.m
 Or join us on our Discord: [discord.gg/mgo2pc](https://discord.gg/mgo2pc)
 
 
+
+
   ![MPO Salute](https://github.com/snakeswiss/MPO-Guide/blob/main/assets/MPO%20salute.gif)
