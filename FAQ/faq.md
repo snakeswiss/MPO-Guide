@@ -28,9 +28,10 @@ They are **not updated in real time**.
 
 ---
 
-### ❓ When do the weekly stats reset?
+### ❓ When do the weekly leaderboards reset?
 
-Weekly stats and leaderboards **reset every Tuesday at : 10am (CET / UTC+1) | 5pm (JST / UTC+9) | 4am (EST / UTC−4)**.
+**Weekly leaderboards reset every Tuesday at:**  
+🕙 **10:00 AM (CET / UTC+1)** | **5:00 PM (JST / UTC+9)** | **4:00 AM (EST / UTC−4)**
 
 ---
 
