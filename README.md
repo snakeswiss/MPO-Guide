@@ -32,7 +32,7 @@ Choose a tutorial to get started depending on the device:
 ## You have any questions?
 
 
-Check our FAQ: [FAQ](https://github.com/snakeswiss/MPO-Guide/blob/main/FAQ/faq.md)
+Check out our FAQ: [FAQ](https://github.com/snakeswiss/MPO-Guide/blob/main/FAQ/faq.md)
 
 Or join us on our Discord: [discord.gg/mgo2pc](https://discord.gg/mgo2pc)
 
