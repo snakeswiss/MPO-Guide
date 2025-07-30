@@ -14,7 +14,7 @@ Yes, your **account ID works for both games** and across all regions.
 
 ---
 
-### ❓ If I'm playing a specific region version of the game (e.g., US/NA), can I play against EU or JAP players?
+### ❓ If I'm playing a specific region version of the game (e.g., US/NA), can I play against EU or JAP players (cross-region)?
 
 **No.** You must play the **same region version** of the game. There are compatibility issues that **prevent cross-region play**.
 
