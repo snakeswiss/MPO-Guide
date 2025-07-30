@@ -1,4 +1,4 @@
-# FAQ – MPO / MPO+
+# FAQ – MPO / MPO+ Infrastructure (+)
 
 ---
 
