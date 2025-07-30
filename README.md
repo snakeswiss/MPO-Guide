@@ -4,6 +4,8 @@ Welcome to this setup guide for **Metal Gear Solid: Portable Ops (MPO)** and **P
 
 ## Table of Contents
 
+Choose a tutorial to get started depending on the device:
+
 - [PSP](./PSP/setup.md)
 - [PS Vita (Adrenaline)](./PSVita/setup.md)
 - [PPSSPP (emulator)](./PPSSPP/setup.md)
