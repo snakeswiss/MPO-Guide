@@ -25,5 +25,12 @@ Welcome to this setup guide for **Metal Gear Solid: Portable Ops (MPO)** and **P
 - A Memory Card large enough to store the games, save data, plugin and cheats (for PSP and PS Vita users)
 - [Pre-Configured TempAR Plugin (Cheat Engine for PSP and PS Vita users)](https://github.com/snakeswiss/MPO-Guide/raw/main/assets/tempar_163.7z) – A homebrew cheat plugin for PSP and Adrenaline that lets you enable cheats in-game. Obligatory for patche the games URL's and Binary check (MPO+)
 
-  ![255621532-e58f0b04-8e7f-4201-bae5-1e66264820bc](https://github.com/user-attachments/assets/d523384d-4a41-410b-b1c3-6d56ee5e1a8a)
+---
 
+You have any questions?
+
+Check our FAQ: [FAQ](https://github.com/snakeswiss/MPO-Guide/blob/main/FAQ/faq.md)
+Or join us on our Discord: [discord.gg/mgo2pc](https://discord.gg/mgo2pc)
+
+
+  ![255621532-e58f0b04-8e7f-4201-bae5-1e66264820bc](https://github.com/user-attachments/assets/d523384d-4a41-410b-b1c3-6d56ee5e1a8a)
