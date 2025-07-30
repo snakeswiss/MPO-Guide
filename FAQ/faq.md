@@ -20,9 +20,11 @@ Yes, your **account ID works for both games** and across all regions.
 
 ---
 
-### ❓ How can I see my ranking on the Leaderboards or Stats page?
+### ❓ When are the rankings on the Leaderboards or Stats page updated?
 
-**Rankings are updated daily at : 10am (CET / UTC+1) | 5pm (JST / UTC+9) | 4am (EST / UTC−4)**, not in real time.
+**Rankings are updated once per day at:**  
+🕙 **10:00 AM (CET / UTC+1)** | **5:00 PM (JST / UTC+9)** | **4:00 AM (EST / UTC−4)**  
+They are **not updated in real time**.
 
 ---
 
