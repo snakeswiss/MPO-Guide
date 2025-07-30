@@ -41,7 +41,7 @@ They are **not updated in real time**.
 
 To avoid this while playing on RC matches:
 
-- Use the **System Fulton** when your soldier dies (**Select** + **L** buttons in same time).
+- Use the **System Fulton** when your soldier dies before he is lying on the ground (**Select** + **L** buttons in same time).
 - If Fulton cannot be used (e.g., there’s a roof above you when you die), press the **Start** button and select **White Flag** to recover your Soldier(s) **before** the end of the current game.
   
 The **White Flag** costs **10 score points**, but **all your dead soldiers will be backed up and saved** from the current game.
