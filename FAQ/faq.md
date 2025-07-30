@@ -4,7 +4,7 @@
 
 ### ❓ How can I host a game?
 
-You'll need to **port forward your UDP port** (default is `5730`) to the IP address of your computer (if using **PPSSPP**) or your **PSP / PS Vita**.
+You'll need to **port forward your UDP port** (default in MPO/MPO+ it's the UDP port: `5730`) to the IP address of your computer (if using **PPSSPP**) or your **PSP / PS Vita**.
 
 ---
 
