@@ -22,13 +22,13 @@ Yes, your **account ID works for both games** and across all regions.
 
 ### ❓ How can I see my ranking on the Leaderboards or Stats page?
 
-**Rankings are updated daily**, not in real time.
+**Rankings are updated daily at : 10am (UTC+1) | 5pm (JST / UTC+9) | 4am (EST / UTC−4)**, not in real time.
 
 ---
 
 ### ❓ When do the weekly stats reset?
 
-Weekly stats and leaderboards **reset every Tuesday**.
+Weekly stats and leaderboards **reset every Tuesday at : 10am (UTC+1) | 5pm (JST / UTC+9) | 4am (EST / UTC−4)**.
 
 ---
 
