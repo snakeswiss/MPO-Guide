@@ -38,28 +38,28 @@ Weekly stats and leaderboards **reset every Tuesday at : 10am (CET / UTC+1) | 5p
 
 To avoid this:
 
-- Use the **System Fulton** when your soldier dies.
-- If Fulton cannot be used (e.g., there’s a roof above), press the **Start** button and select **White Flag**.
+- Use the **System Fulton** when your soldier dies (Select + L buttons in same time).
+- If Fulton cannot be used (e.g., there’s a roof above you when you die), press the **Start** button and select **White Flag** to recover your Soldier(s) **before** the end of the game.
   
-This costs **10 score points**, but **all your dead soldiers will be backed up and saved** from the current game.
+The **White Flag** costs **10 score points**, but **all your dead soldiers will be backed up and saved** from the current game.
 
 ---
 
 ### ❓ What’s the difference between VR and RC modes?
 
-- **VR Mode**: Casual matches – *no risk of soldier loss*.
-- **RC Mode**: Ranked matches – *soldiers can be captured*.
+- **VR Mode**: Casual matches – *no risk of soldier loss and not ranked, you cannot have a rank/Elite animal titles playing on VR*.
+- **RC Mode**: Ranked matches – *soldiers can be captured and ranked matches, you have a Rank/Elite animal titles playing on RC*.
 
 ---
 
 ### ❓ Why can’t I join a specific game host?
 
-You might be on the **host’s blacklist**, which prevents you from joining their games.
+You might be on the **host’s blacklist**, which prevents you from joining their games, please, respect the choice of other players.
 
 ---
 
 ### ❓ I can’t get past the UDP checks or the Terms of Use page. Why?
 
-Make sure your **required cheats/patches are enabled**.
+Make sure the **required cheats/patches are enabled** follow again the tutorial for your correct device : [Get back to the tutorial selection](https://github.com/snakeswiss/MPO-Guide)
 
-Check the tutorial or ask for help on our **Discord**: [discord.gg/mgo2pc](https://discord.gg/mgo2pc)
+Or ask for help on our **Discord** in the correct channel: [discord.gg/mgo2pc](https://discord.gg/mgo2pc)
