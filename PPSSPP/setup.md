@@ -3,6 +3,7 @@
 
 ## Requirements
 - The development build PPSSPPv1.19.3-378 available here to downaload: [PPSSPP Compatible Infra MPO/MPO+](https://builds.ppsspp.org/builds/v1.19.3-378-g160a0ed675/PPSSPPSetup_v1.19.3-378-g160a0ed675.exe)
+  Or our pre-configured one: [PPSSPP Pre-configured Infra MPO/MPO+](https://github.com/snakeswiss/MPO-Guide/raw/main/assets/PPSSPP.7z) *You may need to drag and drop the "PSP" folder that is inside the "memstick" folder into* -> ***C:\Users\yournickname\Documents\PPSSPP***
 - A legally dumped copy of MPO / MPO+ in ISO or CSO format
 
 ---
@@ -13,6 +14,7 @@
 **Download it here :** [PPSSPP Cheats](https://github.com/snakeswiss/Tutorial-setting-up-MPO-MPO-Online/raw/main/assets/PPSSPP%20MPO%20%26%20MPO%2B%20INFRA%20cheats.7z)
 
 2. Launch your PPSSPP emulator and go into the **Settings** -> **System** -> **Cheats** and make sure that **"Enabled Cheats"** is checked **☑**
-3. Still on Settings of PPSSPP, be sure that **Networking** -> **Infrastructure** -> **Autoconfigure** is checked **☑** Also be sure in the same tab that **Enable networking/WLAN** is also checked **☑**
-4. Launch your favorite game and create/load your save data go into Infrastructure (+) mode and enjoy !
-5. If you have any issues past this point, you can ask for support on our Discord join us : [SaveMGO Discord](https://discord.gg/mgo2pc)
+3. Always on Settings of PPSSPP on **Networking** tab, be sure the option **Enable networking/WLAN** is checked **☑**
+4. Still on Settings of PPSSPP, on **Networking** tab -> **Infrastructure** -> **Autoconfigure** is Unchecked **☐** then -> **DNS server** set this DNS IP -> **5.161.249.72**
+5. Launch your favorite game and create/load your save data go into Infrastructure (+) mode and enjoy !
+6. If you have any issues past this point, you can ask for support on our Discord join us : [SaveMGO Discord](https://discord.gg/mgo2pc)
