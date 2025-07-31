@@ -3,7 +3,9 @@
 
 ## Requirements
 - The development build PPSSPPv1.19.3-378 available here to downaload: [PPSSPP Compatible Infra MPO/MPO+](https://builds.ppsspp.org/builds/v1.19.3-378-g160a0ed675/PPSSPPSetup_v1.19.3-378-g160a0ed675.exe)
-  Or our pre-configured one: [PPSSPP Pre-configured Infra MPO/MPO+](https://github.com/snakeswiss/MPO-Guide/raw/main/assets/PPSSPP.7z) *You may need to drag and drop the "PSP" folder that is inside the "memstick" folder into* -> ***C:\Users\yournickname\Documents\PPSSPP***
+  
+Or our pre-configured one: [PPSSPP Pre-configured Infra MPO/MPO+](https://github.com/snakeswiss/MPO-Guide/raw/main/assets/PPSSPP.7z) *You may need to drag and drop the "PSP" folder that is inside the "memstick" folder into* -> ***C:\Users\yournickname\Documents\PPSSPP***
+
 - A legally dumped copy of MPO / MPO+ in ISO or CSO format
 
 ---
