@@ -55,13 +55,13 @@ The **White Flag** costs **10 score points**, but **all your dead soldiers will 
 
 ---
 
-### ❓ Why can’t I join a specific game host?
+### ❓ How can I configure my controller on PPSSPP?
 
 At any time **in game** you can go into the "Game settings" tab then select -> "Control mapping..." and there you can setup every buttons, "Dpad" is for the camera by default.
 
 ---
 
-### ❓ How can I configure my controller on PPSSPP?
+### ❓ Why can’t I join a specific game host?
 
 You might be on the **host’s blacklist**, which prevents you from joining their games, please, respect the choice of other players.
 
