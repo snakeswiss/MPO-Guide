@@ -52,8 +52,8 @@ The **White Flag** costs **10 score points**, but **all your dead soldiers will 
 
 ### ❓ What’s the difference between VR and RC modes?
 
-- **VR Mode**: Casual matches – *no risk of soldier loss and not ranked games, you cannot get a rank/Elite animal titles playing on VR mode*.
-- **RC Mode**: Ranked matches – *soldiers can be captured and ranked games, you can get a Rank/Elite animal titles if you play well on RC mode*.
+- **VR Mode**: Casual matches – *no risk of soldier loss and not ranked games, you cannot get a rank/Elite animal titles playing nor changing your VS Rating on VR mode*.
+- **RC Mode**: Ranked matches – *soldiers can be captured and ranked games, you can get a Rank/Elite animal titles if you play well and change your VS Rating on RC mode*.
 
 ---
 
