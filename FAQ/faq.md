@@ -45,6 +45,7 @@ To avoid this while playing on RC matches:
 - If the Fulton System cannot be used (e.g., There was a roof above you when you died, or you were killed while lying on the ground, or by auto-aim.), press the **Start** button and select **White Flag** to recover your Soldier(s) **before** the end of the current game.
   
 The **Fulton System** cost **1 score point**
+
 The **White Flag** costs **10 score points**, but **all your dead soldiers will be backed up and saved** from the current game.
 
 ---
