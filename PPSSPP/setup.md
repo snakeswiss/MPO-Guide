@@ -7,7 +7,7 @@
   
 Or our pre-configured **PPSSPPv1.19.3-378** (WINDOWS) one: [PPSSPP Pre-configured Infra MPO/MPO+](https://github.com/snakeswiss/MPO-Guide/raw/main/assets/PPSSPP.7z) *You may need to drag and drop the "PSP" folder that is inside the "memstick" folder into* -> ***C:\Users\yournickname\Documents\PPSSPP***
 
-- For Linux/Steam Deck, download our custom build appimage here: [PPSSPP Linux](https://www.mediafire.com/file/82dhfkfesmgmk82/linux-v1.19.3-354-gaf012ae0c1-x86_64+AppImage.zip/file) 
+- For **Linux/Steam Deck**, download our custom build appimage here: [PPSSPP Linux](https://www.mediafire.com/file/82dhfkfesmgmk82/linux-v1.19.3-354-gaf012ae0c1-x86_64+AppImage.zip/file) 
 Launch it one first time, then check in *HOME\.config\PPSSPP\PSP* you should have all the files required, just have to drag and drop the cheats from the **Installation Steps** inside your "Cheats" folder.
 If you can't see the files, press **Control + H** to show hidden files.
 
