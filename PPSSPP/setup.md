@@ -20,4 +20,4 @@ If you can't see the files, press **Control + H** to show hidden files.
 3. Enable plugins (Settings -> System -> Check Enable Plugins **☑**)
 4. Disable cheats (Settings -> System -> Uncheck Enable Cheats **☐**)
 5. Enable networking (Settings -> Networking -> Check Enable networking/WLAN **☑**)
-6. Enable Infrastructure (Settings -> Networking -> Infrastructure -> Check AUtoconfigure **☑**)
+6. Enable Infrastructure (Settings -> Networking -> Infrastructure -> Check Autoconfigure **☑**)
