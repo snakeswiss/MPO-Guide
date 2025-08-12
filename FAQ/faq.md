@@ -80,6 +80,6 @@ You might be on the **host’s blacklist**, which prevents you from joining thei
 
 ### ❓ I can’t get past the UDP checks or the Terms of Use page. Why?
 
-Make sure the **required cheats/patches are enabled** follow again the tutorial for your correct device : [Get back to the tutorial selection](https://github.com/snakeswiss/MPO-Guide)
+Make sure the **required plugin is correctly installed** follow again the tutorial for your correct device : [Get back to the tutorial selection](https://github.com/snakeswiss/MPO-Guide)
 
 Or ask for help on our **Discord** in the correct channel: [discord.gg/mgo2pc](https://discord.gg/mgo2pc)
