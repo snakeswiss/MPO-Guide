@@ -27,5 +27,5 @@ To improve compatibility and loading times:
    - Hold `R` while powering on the console.
 2. Go to:
    - `Configuration > UMD Mode`
-   - Set to `Sony NP9660 - NO UMD`
+   - Set to `M33 Driver`
 3. Disable plugins you don’t need except for "TempAR [GAMES]" (optional).
