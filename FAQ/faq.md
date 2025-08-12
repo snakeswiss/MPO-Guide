@@ -33,6 +33,13 @@ They are **not updated in real time**.
 **Weekly leaderboards reset every Tuesday at:**  
 🕙 **10:00 AM (CET / UTC+1)** | **5:00 PM (JST / UTC+9)** | **4:00 AM (EST / UTC−4)**
 
+
+---
+
+### ❓ I can't create or join a game with my soldiers team, what's going on?
+
+**500 HP** soldiers are no longer allowed. They are unfairly generated soldiers from years ago, created through hacked saves. They cannot be obtained legitimately in the way they were made.
+
 ---
 
 ### ❓ I lost my soldiers in RC (Ranked) matches. Can I recover them?
