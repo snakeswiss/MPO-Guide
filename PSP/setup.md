@@ -24,4 +24,4 @@ To improve compatibility and loading times:
 2. Go to:
    - `Configuration > UMD Mode`
    - Set to `M33 Driver` for better compatibility
-3. Disable plugins you don’t need except for "savempo_boot.prx [GAMES]" that must stay **Enabled**.
+3. Disable plugins you don’t need except for `savempo_boot.prx [GAMES]` that must stay **Enabled**.
