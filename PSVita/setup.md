@@ -11,7 +11,7 @@
 
 ## Installation Steps
 
-1. Download the Plugins savempo: [Plugin savempo)](https://github.com/snakeswiss/MPO-Guide/raw/main/assets/savempo.zip)
+1. Download the Plugins savempo: [Plugin savempo](https://github.com/snakeswiss/MPO-Guide/raw/main/assets/savempo.zip)
 2. Extract the files to `ux0:/pspemu/seplugins`
 3. Edit `ms0:/seplugins/game.txt` and add the line `ms0:/seplugins/savempo_boot.prx 1`
 
