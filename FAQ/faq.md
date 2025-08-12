@@ -40,6 +40,8 @@ They are **not updated in real time**.
 
 **500 HP** soldiers are no longer allowed. They are unfairly generated soldiers from years ago, created through hacked saves. They cannot be obtained legitimately in the way they were made.
 
+There is also a restriction on certain soldier skins that was implemented to enable cross-region play between JAP/US/EU games.
+
 ---
 
 ### ❓ I lost my soldiers in RC (Ranked) matches. Can I recover them?
