@@ -14,7 +14,7 @@ If you can't see the files, press **Control + H** to show hidden files.
 
 ## Installation Steps
 
-1. Download the Plugins savempo: [Plugin savempo](https://github.com/snakeswiss/MPO-Guide/raw/main/assets/savempo.zip)
+1. Download the SaveMPO plugin: [Plugin savempo](https://github.com/snakeswiss/MPO-Guide/raw/main/assets/savempo.zip)
 2. Extract the files to `PPSSPP/memstick/PSP/PLUGINS/savempo` 
 3. Enable plugins (Settings -> System -> Check Enable Plugins **☑**)
 4. Disable cheats (Settings -> System -> Uncheck Enable Cheats **☐**)
