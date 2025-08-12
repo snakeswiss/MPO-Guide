@@ -1,23 +1,20 @@
 ![PPSSPP Logo](../assets/PPSSPP_logo.png)
 # (emulator)
 
-## Requirements
-- Download our pre-configured Developement build **PPSSPPv1.19.3-378** (WINDOWS) one: [PPSSPP Pre-configured Infra MPO/MPO+](https://github.com/snakeswiss/MPO-Guide/raw/main/assets/PPSSPP.7z)
+You must have a legally dumped copy of MPO / MPO+ in ISO or CSO format.
 
-- For **Linux/Steam Deck**, download our custom build appimage here: [PPSSPP Linux](https://www.mediafire.com/file/82dhfkfesmgmk82/linux-v1.19.3-354-gaf012ae0c1-x86_64+AppImage.zip/file) 
-Launch it one first time, then check in
-`~/.config/PPSSPP/PSP` you should have all the files required, just have to drag and drop the plugin from the **Installation Steps** inside your `PLUGINS` folder.
-If you can't see the files, press **Control + H** to show hidden files.
+## Preconfigured Builds
+- **Windows**: [PPSSPP Pre-configured Infra MPO/MPO+](https://github.com/snakeswiss/MPO-Guide/raw/main/assets/PPSSPP.7z)
 
-- A legally dumped copy of MPO / MPO+ in ISO or CSO format
+- **Linux/Steam Deck**: Download the [PPSSPP Linux AppImage](https://www.mediafire.com/file/82dhfkfesmgmk82/linux-v1.19.3-354-gaf012ae0c1-x86_64+AppImage.zip/file), set the AppImage permissions to executable, and then launch it one time. Next, follow the manual installation section below.
 
 ---
 
-## Installation Steps
+## Manual Installation
 
-1. Download the SaveMPO plugin: [Plugin savempo](https://github.com/snakeswiss/MPO-Guide/raw/main/assets/savempo.zip)
-2. Extract the files to `PPSSPP/memstick/PSP/PLUGINS/savempo` 
-3. Enable plugins (Settings -> System -> Check Enable Plugins **☑**)
-4. Disable cheats (Settings -> System -> Uncheck Enable Cheats **☐**)
-5. Enable networking (Settings -> Networking -> Check Enable networking/WLAN **☑**)
-6. Enable Infrastructure (Settings -> Networking -> Infrastructure -> Check Autoconfigure **☑**)
+1. Download and install the latest [PPSSPP development build](https://www.ppsspp.org/download/](https://www.ppsspp.org/devbuilds/)
+2. Download the SaveMPO plugin: [savempo.zip](https://github.com/snakeswiss/MPO-Guide/raw/main/assets/savempo.zip)
+3. Extract the files to `PPSSPP/memstick/PSP/PLUGINS/savempo` 
+4. Enable plugins (Settings -> System -> Check Enable Plugins **☑**)
+5. Disable cheats (Settings -> System -> Uncheck Enable Cheats **☐**)
+6. Enable networking (Settings -> Networking -> Check Enable networking/WLAN)
