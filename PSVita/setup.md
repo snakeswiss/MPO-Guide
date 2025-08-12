@@ -10,15 +10,18 @@
 ---
 
 ## Installation Steps
-1. Connect your PS Vita to your computer via **USB** mode or **FTP** mode (Filezilla for an example).
-2. Download the pre-configured **TempAR** plugin (only TempAR is supported) there : [TempAR Plugin (Cheat Engine for PSP)](https://github.com/snakeswiss/Tutorial-setting-up-MPO-MPO-Online/raw/main/assets/tempar_163.7z)
-3. Extract and copy the "seplugins" and past the file in **ux0:/pspemu/**
-4. Launch **Adrenaline**
-5. On the emulated XMB (main PSP menu), go to **Game > Memory Stick** and launch the game.
-6. Once you are in the game main menu hit the **HOME + R** or **DOWN+TRIANGLE** (depending the version of TempAR) button of your PS Vita to show the **TempAR** menu see the screen shot below.
 
-![TempAR example menu](../assets/TempAR.png)
+1. Download the Plugins savempo: [Plugin savempo)](https://github.com/snakeswiss/MPO-Guide/raw/main/assets/savempo.zip)
+2. Extract the files to `ux0:/pspemu/seplugins`
+3. Edit `ms0:/seplugins/game.txt` and add the line `ms0:/seplugins/savempo_boot.prx 1`
 
-7. Now on this **TempAR** menu hit the **L** button of your PS Vita, it should now say in top right of the screen **[CHEATS ON]** now you can quite the **TempAR** menu hitting circle button  (you have to do it every time you start the game)
-8. Once you loaded your save game go to Infrastructure (or Infrastructure+) and you should be good to connect !
-9. If you have any issues past this point, you can ask for support on our Discord join us : [SaveMGO Discord](https://discord.gg/mgo2pc)
+---
+
+## Recommended Settings
+To improve compatibility and loading times:
+
+1. Start the **Recovery Menu** (Hit select while in the XMB menu of PSP Adrenaline):
+2. Go to:
+   - `Configuration > UMD Mode`
+   - Set to `M33 Driver` for better compatibility
+3. Disable plugins you don’t need except for "savempo_boot.prx [GAMES]" that must stay **Enabled**.
