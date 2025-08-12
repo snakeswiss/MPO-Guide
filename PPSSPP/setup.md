@@ -17,4 +17,4 @@ You must have a legally dumped copy of MPO / MPO+ in ISO or CSO format.
 3. Extract the files to `PPSSPP/memstick/PSP/PLUGINS/savempo` 
 4. Enable plugins (Settings -> System -> Check Enable Plugins **☑**)
 5. Disable cheats (Settings -> System -> Uncheck Enable Cheats **☐**)
-6. Enable networking (Settings -> Networking -> Check Enable networking/WLAN)
+6. Enable networking (Settings -> Networking -> Check Enable networking/WLAN **☑**)
