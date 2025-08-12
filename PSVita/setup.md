@@ -3,7 +3,7 @@
 
 ## Requirements
 - A **PS Vita** with **Custom Firmware** (e.g. HENkaku / ENSO / h-encore² / VitaDeploy / etc..)
-- **Adrenaline** installed (eCFW PSP which simulates the PSP environment to launch the game with the cheat plugin TempAR that is necessary)
+- **Adrenaline** installed (eCFW PSP which simulates the PSP environment to launch the game with the plugin `savempo` that is necessary)
 - A memory stick with at least 1 GB free
 - A legally dumped copy of MPO / MPO+ in ISO or CSO format to launch with **Adrenaline**
 
