@@ -9,14 +9,10 @@
 ---
 
 ## Installation Steps
-1. Connect your PSP to your computer via USB mode. (or the memory card on an USB reader)
-2. Download the pre-configured **TempAR** plugin (only TempAR is supported) there : [TempAR Plugin (Cheat Engine for PSP)](https://github.com/snakeswiss/Tutorial-setting-up-MPO-MPO-Online/raw/main/assets/tempar_163.7z)
-3. Extract and copy the "seplugins" folder and past it in the root of your PSP (overwrite if necessary) 
-4. Disconnect the PSP safely.
-5. On the XMB (main PSP menu), go to **Game > Memory Stick** and launch the game.
-6. Once you are in the game main menu hit the **♪** button of your PSP to enabled the cheats (TempAR) (you have to do it every time you start the game)
-7. Once you loaded your save game go to Infrastructure (or Infrastructure+) and you should be good to connect !
-8. If you have any issues past this point, you can ask for support on our Discord join us : [SaveMGO Discord](https://discord.gg/mgo2pc)
+
+1. Download the Plugins savempo: [Plugin savempo)](https://github.com/snakeswiss/MPO-Guide/raw/main/assets/savempo.zip)
+2. Extract the files to ```ms0:/seplugins```
+3. Edit ```ms0:/seplugins/game.txt``` and add the line : ```ms0:/seplugins/savempo_boot.prx 1```
 
 ---
 
@@ -27,5 +23,5 @@ To improve compatibility and loading times:
    - Hold `R` while powering on the console.
 2. Go to:
    - `Configuration > UMD Mode`
-   - Set to `M33 Driver`
-3. Disable plugins you don’t need except for "TempAR [GAMES]" (optional).
+   - Set to `M33 Driver` for better compatibility
+3. Disable plugins you don’t need except for "savempo_boot.prx [GAMES]" that must stay **Enabled**.
