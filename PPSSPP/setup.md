@@ -16,6 +16,6 @@ If you can't see the files, press **Control + H** to show hidden files.
 
 1. Download the Plugins savempo: [Plugin savempo](https://github.com/snakeswiss/MPO-Guide/raw/main/assets/savempo.zip)
 2. Extract the files to `PPSSPP/memstick/PSP/PLUGINS/savempo` 
-3. Enable plugins (Settings -> System -> Check Enable Plugins)
-4. Disable cheats (Settings -> System -> Uncheck Enable Cheats)
+3. Enable plugins (Settings -> System -> Check Enable Plugins **✅**)
+4. Disable cheats (Settings -> System -> Uncheck Enable Cheats **☐**)
 5. Enable networking (Settings -> Networking -> Check Enable networking/WLAN)
