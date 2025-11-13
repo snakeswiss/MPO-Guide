@@ -89,4 +89,4 @@ Or ask for help on our **Discord** in the correct channel: [discord.gg/mgo2pc](h
 ### ❓ Can I play online (Infrastructure mode) at 60 FPS?
 
 No, for reasons of fair play towards users on original hardware (PSP/PS Vita), the use of the **60 fps** patch is restricted. 
-Only **30 fps** is allowed, as well as the original **20 fps** frame rate.
+Only **30 fps** is allowed, as well as the original **20 fps**.
