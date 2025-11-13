@@ -83,3 +83,9 @@ You might be on the **host’s blacklist**, which prevents you from joining thei
 Make sure the **required plugin is correctly installed** follow again the tutorial for your correct device : [Get back to the tutorial selection](https://github.com/snakeswiss/MPO-Guide)
 
 Or ask for help on our **Discord** in the correct channel: [discord.gg/mgo2pc](https://discord.gg/mgo2pc)
+
+---
+
+### ❓ Can I play in Infrastructure (Online) at 60 FPS ?
+
+No, for reasons of fair play towards users on original hardware (PSP/PS Vita), the use of the 60 fps patch is restricted. Only 30 fps is allowed, as well as the original 20 fps frame rate.
