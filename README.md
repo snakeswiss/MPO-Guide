@@ -1,6 +1,6 @@
 # Metal Gear Solid: Portable Ops (and +) Online - Setup Guide
 
-Welcome to this setup guide for **Metal Gear Solid: Portable Ops (MPO)** and **Portable Ops Plus (MPO+)**, covering the following platforms: **PSP**, **PPSSPP**, and **PS Vita**. This GitHub repository aims to provide clear instructions for playing these games in the best conditions possible.
+Welcome to this setup guide for **Metal Gear Solid: Portable Ops (MPO)** and **Portable Ops Plus (MPO+)**, covering the following platforms: **PSP**, **PS Vita**, and **PPSSPP**. This GitHub repository aims to provide clear instructions for playing these games in the best conditions possible.
 
 ## Table of Contents
 
