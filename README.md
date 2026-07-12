@@ -29,7 +29,7 @@ Choose a tutorial to get started depending on the device:
 
 ---
 
-## If you have any issues installing/downloading the 9 new stages of MPO+
+## If you have any issues installing/downloading the 9 new maps of MPO+
 
 Just delete the files and add them into your correct folder : [New Maps Download](https://github.com/snakeswiss/MPO-Guide/raw/main/assets/files.zip)
 
