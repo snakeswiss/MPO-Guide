@@ -29,6 +29,17 @@ Choose a tutorial to get started depending on the device:
 
 ---
 
+## If you have any issues installing/downloading the 9 new stages of MPO+
+
+Just delete the files and add them into your correct folder : [New Maps Download](https://github.com/snakeswiss/MPO-Guide/raw/main/assets/files.zip)
+
+Install them right here :
+- For PPSSPP : PPSSPP/memstick/PSP/PLUGINS/savempo/
+- For PSP : ms0:/seplugins/
+- For PSVita (using Vita Shell) : ux0:/pspemu/seplugins/
+
+---
+
 ## You have any questions?
 
 
